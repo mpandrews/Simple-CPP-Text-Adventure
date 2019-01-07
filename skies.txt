@@ -1,0 +1,60 @@
+//All sky descriptors should begin with a space.
+
+$0$ The sky here is completely black, with no stars or moons.  It's a little agoraphobic.$
+
+$1$ The sky here flashes wildly between blue and crimson.$
+
+$2$ The sun here is moving at a prodigious pace, with a day/night cycle measured in seconds.$
+
+$3$ The sky here is a giant eye, staring down at the world.$
+
+$4$ The sky here is a tesselation of hexagons, like the roof of some vast geodesic dome.$
+
+$5$ The sky here is a tacky orange.$
+
+$6$ The sky here is a distorted reflection of the ground below; the top of your head subtends almost a full radian, and although it's hard to get a clean look while keeping your head level, you think it suggests that you might be losing more of your hair than you wanted to think.$
+
+$7$ The sky here is just a pattern of magenta and black squares.$
+
+$8$ The sky here is black with what you think are meant to be passenger pigeons, but it's a little hard to be sure.$
+
+$9$ The sky here is bood red.$
+
+$10$ The sky here is a dark green, with vibrant blue clouds.$
+
+$11$ The sky here is pink, with yellow polka-dots.$
+
+$12$ The sky here is a blown up version of the Treachery of Images, by Rene Magritte.  The symbolism is a little bit on the nose, you think, and the Holodeck ought to be ashamed of itself.$
+
+$13$ The sky here is... pretty normal.  Light blue, moderate cloud cover.$
+
+$14$ Two armadas of flying saucers appear to be having a battle overhead.  The great fusillades of negative scratches look devastating, or at least detrimental to the physical integrity of the film.$
+
+$15$ The sky here is an uninspiring brown.$
+
+$16$ The sky here is a bright blue, with white writing reading, "A problem has been detected and Windows has been shut down to prevent damage to your computer."$
+
+$17$ The sky here is green with white stripes.$
+
+$18$ The sky here is white with green stripes.$
+
+$18$ The sky here is a charming mauve.$
+
+$19$ The sky here is eggshell, or possibly ecru.$
+
+$20$ The sky here is blood red.$
+
+$21$ The sky here is chartreuse.$
+
+$22$ The sky here is tartan; you think possibly Black Watch.$
+
+$23$ The sky here is a normal blue, but the clouds are Sierpiknsi triangles.$
+
+$24$ Above you, the sky is a blue tarpaulin, billowing in an invisible breeze.$
+
+$25$ The sky above you appears to be the inside of an armillary sphere, with some unspeakably vast library beyond.$
+
+$26$ Above you, the sky is full of dolphins, frockiling and squeaking in the air.$
+
+$27$ The sky here appears to be a map of the Isle of Skye.$
+

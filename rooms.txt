@@ -1,0 +1,43 @@
+//0-9, room action descriptors.
+
+$0$The archway into the holodeck stands before you, ready to admit you into that zenith of entertainment and nadir of technical reliability.$You hit the button, and the door hisses open to reveal % You take a deep breath and step through.  As you step through the door, you trip over an unseen obstacle and your tools go flying out across the landscape, where they are lost in the shifting forms of the broken pseudo-world.$$
+
+$1$Scan the area with your tricorder.$You raise your trusty Mk I Orthogomatic Tricorder to scan the area. Someday, you hope to have one that scans diagonally.$$
+
+$2$Triumphantly tug at the hem of your tunic.$You stand very straight and tug with gusto at the hem of your uniform tunic.  It makes you feel... captainly.$Your hand moves towards your tunic hem, but you refrain.  If you tug frenetically at your shirt in public, you're not entirely sure what people will think, but you're sure it won't be good.$
+
+$3$This should never appear in-game.$This should never appear in game.$This should never appear in game.$
+
+//10-19, static rooms.
+
+$10$This is a perfectly ordinary ship's corridor, suffused with bright, even lighting from no apparent source, with industrial carpeting and a vague smell of disinfectant and stale gagh.$what sure looks like a ship corridor.$You can't go wandering off with the ship in mortal peril!  You've got to fix the holodeck before everyone dies.$
+
+$11$Deactivated, the holodeck is nothing more than a modestly-sized black room with a grid of yellow lines on walls, ceiling, and floor.$the now-silent and unimpressive holodeck.$The only way out is north, back through the arch.$
+
+$12$Once more, you're back in the corridor.  After your ordeal in the holodeck, even the vague smell of gagh that suffuses everything is welcome.  It's time to go home, put in some earplugs, and take the loudest shower you can.%$what sure looks like a ship corridor on the far side of the arch.$The game should have ended, this should never appear.$
+
+//20 and up, holodeck weirdnesses.
+
+$20$You are standing on the deck of a tall ship, whose stern is embedded nearly to the mizzen-mast in a mid-twentieth century McDonald's.  The air smells of salt, tar, and past-its-sell-by fry oil.$a sailing vessel apparently embedded into a building of some kind.  You think you can make it up the side.$$
+
+$21$It certainly seems like you're standing in the meeting hall of the Klingon High Council, but the pictures you've seen of the place don't have quite this many waist-high moai.  It's also doubtful that even if the High Council chamber did have moai, said moai would be singing the Internationale.  For some reason, the hall is open to the sky.$some horrible Klingon-looking edifice.$$
+
+$22$This area seems like someone sheared the uttermost peak off a mountain and plopped it down at sea-level.  A bitter wind blows thin wisps of snow around you, but you can see the other parts of the holodeck all around you.$a snowy mountain peak, sticking right out of the ground.$$
+
+$23$You're standing in front of an enormous, pink human nose, staring into the great nostrils.  It's breathing, and blasts of hot, moist wind blow your hair back with each mighty exhalation.$a pink pyramid of some kind.$$
+
+$24$The area around you is an improbable collection of skyscraping thatch-roofed cottages, like the business district of a modern city dressed up as a medieval village for Halloween.$a curious-looking cityscape.$$
+
+$25$This looks like the bridge of a Romulan warbird, except that it's set in the middle of a lovely forest meadow, with the viewscreen in the boughs of an oak tree.$some greenish furnishings in a forest clearing.$$
+
+$26$You are standing in an open field west of a white house, with a boarded front door.$an ordinary-looking white house.$$
+
+$27$You're standing in a pasture, surrounded by a herd of businessmen in suits. The businessmen eye you suspiciously as they graze, and scatter at your approach.$a field full of human-looking figures.$$
+
+$28$You stand in an open field before an enormous stone statue of the numeral 3.  A plaque on the plinth reads, "To our friends, the toucans."$a towering numeral 3.$$
+
+$29$You're in what appears to be an automated factory of some kind, where antique-looking robot arms are apparently assembling live mice out of parts.  Mice, some only half-assembled and missing limbs, scamper to and fro around the factory floor.$a factory of some sort.$$
+
+$30$You're standing in front of a massive stepped pyramid.  You're not quite certain whether it's Meso-American or Mesopotamian, but you're pretty sure the Burma-Shave billboard on top is anachronistic.$a stepped pyramid.$$
+
+$31$You're in a forest meadow, but the holodeck seems to have gotten confused and has filled the air with schools of colorful tropical fish.$a meadow, with clouds or swarms of something in the air.$$

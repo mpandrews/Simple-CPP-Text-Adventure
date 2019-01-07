@@ -1,0 +1,8 @@
+OBJECTIVES: When you enter the Holodeck, all your tools are lost and scattered into various Holodeck rooms. Your goal is to recover all four tools, find the control console, and repair the Holodeck before the ship is destroyed.
+
+In each room, the actions available to you will be highlighted in purple.  You will always have the option to check your toolbox to see what you have recovered so far, to scan the vicinity for missing tools and the console, and to redisplay this help message.  Within the holodeck, you will also always have the option of moving in a cardinal direction; the holodeck wraps in both axes.
+
+Each room in the Holodeck contains 1-3 objects/props that may conceal a tool; selecting them as actions will interact with them, and return any tool they're hiding.  There will never be more than one tool in a room, so if you find a tool in a room there is no need to check all the other objects.
+
+Turns are limited, and the Holodeck will periodically reshuffle itself completely; if that happens, all rooms will have new objects and unrecovered tools will be in new locations.  All actions except viewing the helpfile take a turn, but invalid selections do not.  Note that shuffling happens *after* your turn is processed, so if you scan the area and the area reshuffles, your scan will be immediately out of date.
+
