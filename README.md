@@ -1,7 +1,7 @@
-# CS-162-Final-Project
+# Simple CPP Text Adventure
 
-Final project for the second introductory CS course. 
+This was a course assignment.
 
-Nothing special, just a simplified parser-less text adventure intended to make use of inheritance, polymorphism, and file reads.
+It's nothing special, just a simplified parser-less text adventure intended to make use of inheritance, polymorphism, and file reads.  All the same I was pretty happy with how it came together.
 
-It will compile under linux with GCC or clang, but will not compile or run under Windows.  Note that the executable depends on the provided textfiles to run; they act as string libraries for the game.
+It will compile under linux with g++ or clang++, but will not compile or run under Windows.  Note that the executable depends on the provided textfiles to run; they act as string libraries for the game.
